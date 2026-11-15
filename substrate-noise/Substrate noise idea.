@@ -1,1 +1,20 @@
 
+Directional Substrate Noise Analysis
+
+Exploring how substrate noise spreads across a chip, couples into sensitive circuits, and changes with frequency.
+Research Idea
+Combine physical modeling with sparse sensing to estimate noise distribution and identify dominant coupling paths. Directionality will be investigated as a consequence of layout, substrate structure, grounding, and source locations.
+
+Key Questions
+
+- Which paths carry the strongest noise toward sensitive blocks?
+- How do frequency and grounding change these paths?
+- Can a limited number of sensors reconstruct a useful noise map?
+- Which placement and isolation changes reduce coupling most effectively?
+
+Planned Approach
+Develop substrate network models, simulate noise injection, reconstruct spatial noise maps, and compare predictions against reference simulations.
+Intended Outcome
+Practical guidance for placement, grounding, and isolation in analog, RF, and mixed-signal ICs.
+Status
+Early research concept. Modeling and validation are planned.
