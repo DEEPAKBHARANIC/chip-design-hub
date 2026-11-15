@@ -1,0 +1,18 @@
+>>> Return Path Analyzer ---- Examine current-return continuity, shared impedance, and loop geometry around sensitive or fast signals.
+>>> Directional Substrate Noise Engine---- Model noise propagation and guide placement, grounding, and isolation decisions.
+>>> Matching and Yield Risk Engine --- Assess device environment, gradients, parasitic imbalance, and layout choices that can increase mismatch risk.
+>>> review checklist --- Structured review tabs, cell information, and report export; code prepared, runtime validation pending.
+>>> Auto-via enclosure and directional trim --- GUI for via placement and X/Y enclosure control; code drafted and revised.
+
+
+
+
+
+
+
+
+
+
+
+
+
