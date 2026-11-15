@@ -1,0 +1,10 @@
+Intent Rule Check (IRC)
+Intent Rule Check is a proposed framework for capturing design intent at the schematic level and assessing whether that intent is preserved throughout physical implementation.
+The objective is to identify implementation risks involving device matching, RF-sensitive routing, high-current paths, noise-sensitive signals, clock distribution, and ESD structures before formal design reviews and signoff.
+IRC aims to complement conventional physical verification by connecting layout decisions to their electrical purpose and highlighting risks that geometric and connectivity checks alone may not capture.
+
+Future Direction
+Beyond intent checking, IRC could support a knowledge base connecting design requirements, floorplan decisions, layout practices, and validated silicon outcomes. Over time, this knowledge could inform placement, isolation, and routing recommendations for future designs.
+
+Status
+Independent research concept under development. Implementation methods and validation results will be documented as the work progresses.
