@@ -14,7 +14,9 @@ Key Questions
 
 Planned Approach
 Develop substrate network models, simulate noise injection, reconstruct spatial noise maps, and compare predictions against reference simulations.
+
 Intended Outcome
 Practical guidance for placement, grounding, and isolation in analog, RF, and mixed-signal ICs.
+
 Status
 Early research concept. Modeling and validation are planned.
